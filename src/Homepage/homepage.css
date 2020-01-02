@@ -1,0 +1,27 @@
+#components-layout-demo-top-side-2 .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+.homepage{
+  width: 1536px;
+  height: 733px;
+}
+.logo{
+  height: 100px;;
+}
+.navlink{
+  margin-right: 20px;
+  font-size: 20px;
+}
+.cc{
+  float: right;
+}
+.logout{
+  float: left;
+}
+.img{
+  background-image: url("./donation.jpg");
+} 
